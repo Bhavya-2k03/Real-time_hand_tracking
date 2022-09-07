@@ -1,3 +1,3 @@
 # Real-time_hand_tracking
 The following code tracks hand landmarks in real time and also returns thier coordinates.
-![alt text](https://drive.google.com/file/d/1wbUqrc8Vt9n2pe4xeurQ5vc60PJI5rly/view?usp=sharing)
+![hand](https://user-images.githubusercontent.com/100507234/188783570-dc80fd5a-1aa0-48ef-919a-543edf1fb471.jpg)
